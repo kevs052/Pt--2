@@ -1,0 +1,14 @@
+button{
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+body{
+      background-color: whitesmoke;
+      border-radius: 5px;
+}
+label{
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 5px;
+}
